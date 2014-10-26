@@ -1,4 +1,4 @@
 hello
 
 this is a bay file
-
+new unstaged string
