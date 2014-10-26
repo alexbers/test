@@ -4,3 +4,4 @@ this is a bay file
 new unstaged string
 
 an another string
+and yet another one..
