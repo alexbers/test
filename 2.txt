@@ -4,3 +4,4 @@ addition 2
 new string
 5 string
 6b
+7
