@@ -2,3 +2,4 @@ this is 2.txt
 addition
 addition 2
 new string
+5 string
