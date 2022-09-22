@@ -2,6 +2,7 @@ import unittest
 import sufpref
 
 
+
 class TestAll(unittest.TestCase):
     words = ['a', 'ab', 'abab', 'ababab', 'bababa', 'abcbca', 'abababa']
 
